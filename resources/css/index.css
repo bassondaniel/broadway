@@ -3,7 +3,6 @@
   text-align: center;
 }
 
-
 h1 {
   color: white;
   font-size: 70px;
@@ -20,16 +19,17 @@ h3 {
   font-weight: bold;
 }
 
+#home {
+  background-image: url('../images/the-flatiron-building.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 #broadwayImage {
   background-image: url('../images/the-flatiron-building.png');
   background-position: center;
   color: white;
   font-size: 23px;
-}
-
-#home {
-  background-image: url('../images/the-flatiron-building.png');
-  background-position: center;
 }
 
 
