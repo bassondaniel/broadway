@@ -42,3 +42,12 @@ a {
   color: white;
   font-size: 18px;
 }
+
+footer {
+  background-color: dimgrey;
+}
+
+#footerText {
+  text-align: left;
+  font-size: 11px;
+}
